@@ -1,5 +1,2 @@
-<<<<<<< HEAD
+
 this is a conflict.
-=======
-this is another conflict.
->>>>>>> branch2
